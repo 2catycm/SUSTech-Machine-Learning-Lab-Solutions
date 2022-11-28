@@ -2,9 +2,8 @@
 
 > 叶璨铭， 12011404@mail.sustech.edu.cn
 
-新版
 
-## Linear Discriminant Analysis: Maximum Class Separation
+## Discriminant Function: Maximum Class Separation
 
 > ![image-20221128111518172](P_Homework4_叶璨铭.assets/image-20221128111518172.png)
 > $$
@@ -12,21 +11,29 @@
 > $$
 > 
 
-## 
+## Discriminant Function: Fisher Criterion
 
-##
+> ![image-20221128172805560](P_Homework4_叶璨铭.assets/image-20221128172805560.png)
 
-## 
+## Generative Classification Model
 
-https://github.com/2catycm/SUSTech-Machine-Learning-Lab-Solutions/blob/main/Theory-Homework-Solution/H4-Classification/P_Homework4_%E5%8F%B6%E7%92%A8%E9%93%AD.pdf
+> ![image-20221128172850130](P_Homework4_叶璨铭.assets/image-20221128172850130.png)
 
-https://github.com/2catycm/SUSTech-Machine-Learning-Lab-Solutions/raw/main/Theory-Homework-Solution/H4-Classification/P_Homework4_%E5%8F%B6%E7%92%A8%E9%93%AD.pdf
+## Discriminative Classification Model
 
-https://github.com/qingconglaixueit/tuchuang/raw/main/blogsSourse/githubUseage/github4.png
+> ![image-20221128173001671](P_Homework4_叶璨铭.assets/image-20221128173001671.png)
 
-##
 
-## 
 
-##
+## Discriminative Classification Model
+
+> ![image-20221128173038275](P_Homework4_叶璨铭.assets/image-20221128173038275.png)
+
+## Multi-Class  
+
+> ![image-20221128173211019](P_Homework4_叶璨铭.assets/image-20221128173211019.png)
+
+## Convex Hull
+
+> ![image-20221128173313881](P_Homework4_叶璨铭.assets/image-20221128173313881.png)
 
