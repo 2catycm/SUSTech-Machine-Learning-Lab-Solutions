@@ -6,10 +6,23 @@
 ## Discriminant Function: Maximum Class Separation
 
 > ![image-20221128111518172](P_Homework4_叶璨铭.assets/image-20221128111518172.png)
-> $$
-> x_{1:N} \ and\
-> $$
-> 
+
+$$
+\mathop{\mathbf{max}}_{w} f(w) = w^T{(\mathbf{m_2}-\mathbf{m_1})}\\
+s.t. w^Tw = 1
+$$
+
+Using Lagrange Multiplier $\lambda$, we can transform the problem to be unconstrained. 
+$$
+\nabla f(w) = \lambda \nabla g(w) \\
+g(w) = w^Tw-1 \\
+g(w) = 0
+$$
+Since $\nabla f(w) = (\mathbf{m_2}-\mathbf{m_1})^T$ and $\nabla g(w) = 2w^T$, we obtain 
+$$
+w = \frac{1}{2\lambda}(\mathbf{m_2}-\mathbf{m_1}) \sim (\mathbf{m_2}-\mathbf{m_1})
+$$
+
 
 ## Discriminant Function: Fisher Criterion
 
