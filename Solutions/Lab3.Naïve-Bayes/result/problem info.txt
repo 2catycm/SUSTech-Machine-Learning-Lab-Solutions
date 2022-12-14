@@ -1,2 +1,0 @@
-{'name': '演化计算求解贝叶斯分类器参数', 'M': 1, 'maxormins': array([-1]), 'Dim': 2, 'varTypes': array([0, 0]), 'lb': array([0.e+00, 1.e-20]), 'ub': array([  1., 100.]), 'borders': array([[1, 1],
-       [1, 1]])}
